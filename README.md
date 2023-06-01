@@ -3,6 +3,14 @@ So you can say "yes" when people ask if you tried "setting it to Wumbo".
 
 The plugin that every project needs.
 
+## How to Use
+
+You can get to the option under Project Settings -> Plugins -> WumboMode
+
+![WumboMode Screenshot](Resources/wumbo_mode.jpg)
+
+## Installation
+
 Clone this into your project's plugins directory. Add this to your `.uproject` file.
 
 ```
